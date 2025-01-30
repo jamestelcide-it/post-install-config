@@ -61,12 +61,27 @@ We can configure a department by going to Admin Panel, then Agents, then Departm
 
 <h2>Configuring Teams</h2>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/a7b50cf8-f87a-4ff6-8827-9334a89dd549" height="80%" width="80%" />
+  <!-- ![image](https://github.com/user-attachments/assets/a7b50cf8-f87a-4ff6-8827-9334a89dd549) -->
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+<img src="https://github.com/user-attachments/assets/9fa06262-bfbd-41c4-a94c-1d1dbdbc5300" height="80%" width="80%" />
+   <!-- ![image](https://github.com/user-attachments/assets/9fa06262-bfbd-41c4-a94c-1d1dbdbc5300) -->
+</p>
+ 
+<p>
+We can configure teams by going to Admin Panel, then Agents, then teams. This is helpful for allowing agents to work on tickets collaboratively across multiple departments.
 </p>
 <br />
+
+<h2>Allowing Someone To Create A Ticket</h2>
+
+<p>
+If we go to Admin Panel then Settings, then user settings we have the ability to allow someone to create a ticket.
+</p>
+<br />
+
+![image](https://github.com/user-attachments/assets/40c4a49e-f2ed-4742-b0e6-73178f12d418)
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -76,27 +91,14 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+<h2>Configure Agents</h2>
+![image](https://github.com/user-attachments/assets/a4830e6d-2530-497b-8019-be95acb83f34)
+![image](https://github.com/user-attachments/assets/f05fd328-acd7-4338-8198-3e879f57262d)
+![image](https://github.com/user-attachments/assets/2f0df064-c717-4f37-88dd-a259485bddb0)
+
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Within Admin Panel, Agents then Add New, we have the ability to add new agents and what type of access they have.
 </p>
 <br />
 
