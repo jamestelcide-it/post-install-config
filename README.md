@@ -83,7 +83,8 @@ If we go to Admin Panel then Settings, then user settings we have the ability to
 
 ![image](https://github.com/user-attachments/assets/40c4a49e-f2ed-4742-b0e6-73178f12d418)
 
-<h2>Configure Agents</h2>
+<h2>Configuring Agents</h2>
+
 <img src="https://github.com/user-attachments/assets/a4830e6d-2530-497b-8019-be95acb83f34" height="80%" width="80%"/>
   <!-- ![image](https://github.com/user-attachments/assets/a4830e6d-2530-497b-8019-be95acb83f34) -->
 <img src="https://github.com/user-attachments/assets/f05fd328-acd7-4338-8198-3e879f57262d" height="80%" width="80%"/>
@@ -96,27 +97,50 @@ Within Admin Panel, Agents then Add New, we have the ability to add new agents a
 </p>
 <br />
 
+<h2>Configuring Users</h2>
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/8fab2d06-8c71-4883-8f7b-7964ade57d50" height="80%" width="80%" />
+<!-- ![image](https://github.com/user-attachments/assets/8fab2d06-8c71-4883-8f7b-7964ade57d50) -->
+<img src="https://github.com/user-attachments/assets/252e1c39-3321-40e6-a0de-ed2d98d07986" height="80%" width="80%" />
+<!-- ![image](https://github.com/user-attachments/assets/252e1c39-3321-40e6-a0de-ed2d98d07986) -->
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+We can go to Agent Panel then Users, then Add New to create a new user.
 </p>
 <br />
 
+<h2>Configuring SLA</h2>
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/user-attachments/assets/719713e0-3934-4575-8792-3c7a3776b154" height="80%" width="80%" />
+<!-- ![image](https://github.com/user-attachments/assets/719713e0-3934-4575-8792-3c7a3776b154) -->
+  
+<img src="https://github.com/user-attachments/assets/69dbf3f4-f52f-4e46-9049-a60ebd7b4a14" height="80%" width="80%" />
+<!-- ![image](https://github.com/user-attachments/assets/69dbf3f4-f52f-4e46-9049-a60ebd7b4a14) -->
+
+<img src="https://github.com/user-attachments/assets/54317bbf-6d14-4dea-9640-090ace652ef8" height="80%" width="80%" />
+<!-- ![image](https://github.com/user-attachments/assets/54317bbf-6d14-4dea-9640-090ace652ef8) -->
+
+<img src="https://github.com/user-attachments/assets/e3336815-1bca-4bf8-ab5f-ffd2b2f85a43" height="80%" width="80%" />
+<!-- ![image](https://github.com/user-attachments/assets/e3336815-1bca-4bf8-ab5f-ffd2b2f85a43) -->
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+We can go to Agent Panel then Manage, then SLA, then add new SLA to create a new SLA for defining the expected response and resolution times for tickets based on priority. In this example we created three SLA's respectively.
 </p>
 <br />
 
+
+<h2>Configuring Help Topics</h2>
+
+<img src="https://github.com/user-attachments/assets/583a08b9-5a71-4094-8d10-9c7ff5dcb17d" height="80%" width="80%" />
+<!-- ![image](https://github.com/user-attachments/assets/583a08b9-5a71-4094-8d10-9c7ff5dcb17d) -->
+
+<img src="https://github.com/user-attachments/assets/c6df25a6-dcbb-4881-8994-a884d2235fdc" height="80%" width="80%" />
+<!-- ![image](https://github.com/user-attachments/assets/c6df25a6-dcbb-4881-8994-a884d2235fdc) -->
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+We can go to Admin Panel then Manage then Help Topics then Add new Help Topic to create categories for tickets to make sure users are directed to the proper department. In this example we made the topics Business Critical Outage, Personal Computer Issues, Equipment Request, and Password Reset.
 </p>
 <br />
 
